@@ -12,6 +12,7 @@ How we dance.
 * **[Services we Use](/services)** _Dropbox, Skype, etc._
 * **[Software](/software)** _Vim, Sublime, etc._
 * **[Style](/style/README.md)** _The way we write documentation and code._
+* **[Laptop Maintence](/laptop/README.md)** _How we re-image machines and set new ones up._
 * **[Project Management](/project_management)** _How we manage our projects._
 * **[Meetups](/meetups)** _Our MO for preparing and facilitating meetups._
 
